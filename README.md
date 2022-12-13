@@ -18,7 +18,7 @@ The two types of Challenges are the following:
 
 * **Job-seeking coding assessments** or **take-home assignments** don't provide starter code. You'll build these from scratch. Even-numbered modules follow this format.
 
-### Challenge Elements
+### Challenge Elements "
 
 Challenges adhere to a format that's commonly used by software development teams that use **agile project management** to manage their work. Practicing this will prepare you for the workflows you'll experience as a professional full-stack web developer. 
 
